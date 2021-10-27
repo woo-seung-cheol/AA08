@@ -1,0 +1,20 @@
+{
+  "name": "client_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gauge.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multi_signals",
+    "node",
+    "arduino"
+  ],
+  "author": "aa08",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^9.2.4",
+    "socket.io": "^2.3.0"
+  }
+}
